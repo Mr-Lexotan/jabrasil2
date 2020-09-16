@@ -204,6 +204,10 @@ p , h1, h2 {
     font-family: sans-serif;
 }
 
+.icones .git:hover, .icones .email:hover{
+    opacity: .5;
+}
+
 .frase h2::after {
     content:"" ;
     display: block;
@@ -218,6 +222,6 @@ p , h1, h2 {
     padding-top: 8px;
 }
 
-.icones:first-child{
-    padding-bottom: 844px;
+.bg-footer {
+    margin-top: 32px;
 }

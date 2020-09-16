@@ -245,6 +245,6 @@ p , h1, h2 {
     padding-top: 8px;
 }
 
-.icones:first-child{
-    padding-bottom: 844px;
+.icones .git:hover, .icones .email:hover{
+    opacity: .5;
 }
